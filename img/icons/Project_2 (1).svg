@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 24.0"
+	enable-background="new 0 0 24.0 24.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad1" x1="-22.755%" y1="50.000%" x2="89.837%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(109,51,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,108,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(239,150,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad12" x1="-22.755%" y1="50.000%" x2="89.837%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(109,51,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,108,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(239,150,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad13" x1="-22.755%" y1="50.000%" x2="89.837%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(109,51,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,108,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(239,150,0);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad15" x1="-22.755%" y1="50.000%" x2="89.837%" y2="50.000%">
+   		<stop offset="0.000%" style="stop-color:rgb(109,51,0);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,108,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(239,150,0);stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M0.00,0.00L24.00,0.00L24.00,24.00L0.00,24.00z"/>
+	<path
+		transform = "rotate(-0.00 12.27 10.60)"
+		fill="url(#fillGrad1)"
+		stroke="#740E00"
+		fill-opacity="1.0"
+		stroke-opacity="0.992"
+		fill-rule="nonzero"
+		stroke-width="0.45599997"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M9.91,6.00L14.62,6.00A0.79 0.79 0 0 1 15.41,6.79L15.41,14.41A0.79 0.79 0 0 1 14.62,15.20L9.91,15.20A0.79 0.79 0 0 1 9.13,14.41L9.13,6.79A0.79 0.79 0 0 1 9.91,6.00z"/>
+	<path
+		transform = "rotate(-0.00 9.58 13.79)"
+		fill="url(#fillGrad12)"
+		stroke="#740E00"
+		fill-opacity="1.0"
+		stroke-opacity="0.992"
+		fill-rule="nonzero"
+		stroke-width="0.45599997"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M9.90,15.20L12.00,15.20Q12.00,16.20,10.87,16.60L10.86,18.00L6.80,18.00L6.75,12.00L9.14,9.57L9.13,12.38L8.20,13.30L10.88,10.64L10.88,10.64C12.00,9.50,13.00,11.00,12.00,11.83L10.00,14.00Q10.01,15.25,9.50,16.17"/>
+	<path
+		transform = "rotate(-274.39 13.29 10.57)"
+		fill="url(#fillGrad13)"
+		stroke="#740E00"
+		fill-opacity="1.0"
+		stroke-opacity="0.992"
+		fill-rule="nonzero"
+		stroke-width="0.45599997"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M8.74,10.21L17.85,10.93M17.93,9.89L8.82,9.17"/>
+	<path
+		transform = "rotate(-270.01 10.00 7.66)"
+		fill="url(#fillGrad15)"
+		stroke="#740E00"
+		fill-opacity="1.0"
+		stroke-opacity="0.992"
+		fill-rule="nonzero"
+		stroke-width="0.45599997"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M9.01,7.66L10.99,7.66M11.66,7.66L11.66,7.66zM11.66,6.82L9.01,6.82"/>
+</svg>

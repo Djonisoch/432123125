@@ -1,0 +1,96 @@
+/******************************************feedback-form***************************************/
+.feedback-form{
+  position: relative;
+  z-index: 3;
+}
+.stock__container{
+  position: relative;
+}
+
+.feedback-form-container{
+  position: relative;
+  z-index: 3;
+}
+.feedback-form{
+  padding: 30px;
+}
+
+.feedback-form-inner{
+background-color: #ffffffa1;
+backdrop-filter: blur(5px);
+border-radius: 2em;
+margin: 0 auto;
+padding: 30px;
+max-width: 600px;
+}
+
+.feedback-f{
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.example-2{
+  margin: 8px auto;
+}
+.example-2 .btn-tertiary {
+  color: #757575;
+  padding: 0;
+  margin: auto;
+  display: block;
+  background-color: #fde1bb;
+  border-radius: 2em;
+  font-size: 20px;
+  outline: none;
+  border: 2px solid transparent;
+  transition: all 0.2s;
+}
+
+.example-2 .btn-tertiary:hover,
+.example-2 .btn-tertiary:focus {
+  color: #FF8308;
+  border-color: #FF8308;
+}
+.example-2 .btn-tertiary:before{
+  color: saddlebrown;
+}
+.example-2 .input-file {
+  width: .1px;
+  height: .1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+
+.example-2 .input-file+.js-labelFile {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 9px 30px;
+  cursor: pointer;
+}
+
+.example-2 .input-file+.js-labelFile .icon:before {
+  content: "\f093"; 
+
+}
+
+.example-2 .input-file+.js-labelFile.has-file .icon:before {
+  content: "\f00c";
+  color: #5AAC7B;
+}
+
+@media(max-width: 425px) {
+  .feedback-form{
+    padding: 0px;
+  }
+  .feedback-form-inner{
+    border-radius: 0px;
+  }
+  .example-2 .btn-tertiary {
+    font-size: 14px;
+  }
+  .form__input{
+    font-size: 14px;
+  }
+}

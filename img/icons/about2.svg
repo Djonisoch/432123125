@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 24.0"
+	enable-background="new 0 0 24.0 24.0"
+	xml:space="preserve">
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.6748617"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M11.31,20.45L11.31,21.76Q11.31,23.07,10.00,23.07L5.08,23.02M3.94,22.03Q3.94,23.02,4.86,23.02M11.37,20.46Q13.06,20.48,13.44,18.48"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.6748617"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M3.95,21.71L3.96,12.88Q3.92,11.93,4.92,10.96L7.93,7.89"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.6748616"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M17.80,17.61L17.80,1.57M9.59,18.12L18.00,18.12M15.87,1.06L15.89,17.74"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.6748616"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M8.23,12.37L8.23,2.19Q8.29,1.09,9.62,1.09L18.16,1.04Q19.25,1.06,19.23,2.16L19.31,17.06Q19.31,18.12,18.34,18.12"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.6748616"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M9.78,2.19L9.78,5.89M9.78,7.12L9.78,7.12zM11.32,7.12L11.32,2.19"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.6748616"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M11.43,9.54C13.18,7.74,15.51,9.57,13.80,11.55L9.60,15.70Q9.74,17.88,8.97,19.60M11.37,9.61L6.47,14.47"/>
+</svg>

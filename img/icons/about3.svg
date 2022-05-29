@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 24.0"
+	enable-background="new 0 0 24.0 24.0"
+	xml:space="preserve">
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.84000003"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M5.07,18.36L0.35,20.50L1.93,15.16A11.15 7.96 358.84 1 1 5.07,18.36z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.71999997"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M11.89,6.56C12.82,6.56,13.58,7.34,13.58,8.29C13.58,9.25,12.82,10.02,11.89,10.02C10.95,10.02,10.19,9.25,10.19,8.29C10.19,7.34,10.95,6.56,11.89,6.56z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="1.5889637"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M18.55,9.83L13.84,13.62L11.74,12.30"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FF8308"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.768"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M15.64,13.89A3.83 3.81 314.68 1 1 14.23,11.57"/>
+</svg>
